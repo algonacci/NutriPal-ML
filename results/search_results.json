@@ -160,9 +160,113 @@
         "food_name": "Chicken Gyoza Potstickers",
         "food_type": "Brand",
         "food_url": "https://www.fatsecret.com/calories-nutrition/sprouts-farmers-market/chicken-gyoza-potstickers"
+      },
+      {
+        "brand_name": "Daylee Pride",
+        "food_description": "Per 8 pieces - Calories: 240kcal | Fat: 7.00g | Carbs: 33.00g | Protein: 14.00g",
+        "food_id": "1366425",
+        "food_name": "Chicken Gyoza Potstickers",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/daylee-pride/chicken-gyoza-potstickers"
+      },
+      {
+        "brand_name": "Shirakiku",
+        "food_description": "Per 7 pieces - Calories: 240kcal | Fat: 6.00g | Carbs: 34.00g | Protein: 12.00g",
+        "food_id": "12000498",
+        "food_name": "Beef Gyoza",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/shirakiku/beef-gyoza"
+      },
+      {
+        "brand_name": "Surasang",
+        "food_description": "Per 8 pieces - Calories: 190kcal | Fat: 6.00g | Carbs: 25.00g | Protein: 8.00g",
+        "food_id": "60874689",
+        "food_name": "Leek Gyoza",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/surasang/leek-gyoza"
+      },
+      {
+        "brand_name": "Trader Ming's",
+        "food_description": "Per 2 tbsp - Calories: 30kcal | Fat: 1.00g | Carbs: 6.00g | Protein: 1.00g",
+        "food_id": "58946",
+        "food_name": "Gyoza Dipping Sauce",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/trader-mings/gyoza-dipping-sauce"
+      },
+      {
+        "brand_name": "Kikkoman",
+        "food_description": "Per 2 tbsp - Calories: 40kcal | Fat: 0.00g | Carbs: 10.00g | Protein: 0.50g",
+        "food_id": "40252997",
+        "food_name": "Gyoza Dipping Sauce",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/kikkoman/gyoza-dipping-sauce"
+      },
+      {
+        "brand_name": "Shirakiku",
+        "food_description": "Per 7 pieces - Calories: 200kcal | Fat: 3.50g | Carbs: 34.00g | Protein: 10.00g",
+        "food_id": "35183465",
+        "food_name": "Chicken Gyoza",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/shirakiku/chicken-gyoza"
+      },
+      {
+        "brand_name": "Ktown",
+        "food_description": "Per 2.99 oz - Calories: 150kcal | Fat: 4.00g | Carbs: 21.00g | Protein: 9.00g",
+        "food_id": "47650685",
+        "food_name": "Vegetable Yaki Gyoza",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/ktown/vegetable-yaki-gyoza"
+      },
+      {
+        "brand_name": "Ajinomoto",
+        "food_description": "Per 7 dumplings - Calories: 280kcal | Fat: 13.00g | Carbs: 27.00g | Protein: 11.00g",
+        "food_id": "4305032",
+        "food_name": "Beef Gyoza Dumplings",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/ajinomoto/beef-gyoza-dumplings"
+      },
+      {
+        "brand_name": "Trader Joe's",
+        "food_description": "Per 8 potstickers - Calories: 250kcal | Fat: 7.00g | Carbs: 34.00g | Protein: 15.00g",
+        "food_id": "60623",
+        "food_name": "Shrimp Gyoza Potstickers",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/trader-joes/shrimp-gyoza-potstickers"
+      },
+      {
+        "brand_name": "Ajinomoto",
+        "food_description": "Per 7 pieces - Calories: 260kcal | Fat: 10.00g | Carbs: 31.00g | Protein: 12.00g",
+        "food_id": "26812130",
+        "food_name": "Chicken Gyoza Dumplings",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/ajinomoto/chicken-gyoza-dumplings"
+      },
+      {
+        "brand_name": "Surasang",
+        "food_description": "Per 8 pieces - Calories: 210kcal | Fat: 6.00g | Carbs: 30.00g | Protein: 9.00g",
+        "food_id": "48730800",
+        "food_name": "Vegetable Gyoza",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/surasang/vegetable-gyoza"
+      },
+      {
+        "brand_name": "Yoshinoya",
+        "food_description": "Per 6 pieces  - Calories: 195kcal | Fat: 6.00g | Carbs: 25.00g | Protein: 9.00g",
+        "food_id": "1468004",
+        "food_name": "Chipotle Gyoza",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/yoshinoya/chipotle-gyoza"
+      },
+      {
+        "brand_name": "Ajinomoto",
+        "food_description": "Per 4 dumplings - Calories: 150kcal | Fat: 8.00g | Carbs: 16.00g | Protein: 5.00g",
+        "food_id": "4133293",
+        "food_name": "Seafood Gyoza Dumplings",
+        "food_type": "Brand",
+        "food_url": "https://www.fatsecret.com/calories-nutrition/ajinomoto/seafood-gyoza-dumplings"
       }
     ],
-    "max_results": "20",
+    "max_results": "50",
     "page_number": "0",
     "total_results": "33"
   }
